@@ -1,0 +1,13 @@
+=PhuongServlet
+login=login.html
+invalid=invalid.html
+search_jsp=search.jsp
+createNewAccount_html=createNewAccount.html
+login_servlet=LoginServlet
+create_Account=CreateAccountServlet
+edit_Account=EditAccountServlet
+logOut_Account=LogOutAccountServlet
+search_Account=SearchServlet
+update_Record=UpdateRecordServlet
+delete_Record=DeleteRecordServlet
+
